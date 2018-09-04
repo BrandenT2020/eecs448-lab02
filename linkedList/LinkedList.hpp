@@ -144,3 +144,6 @@ bool LinkedList<T>::removeFront()
 	return(isRemoved);
 }
 
+
+
+
